@@ -11,7 +11,7 @@
 
 ## Sobre o repositório
 
-Este repositório contém projetos desenvolvidos ao longo de quatro cursos da [Formação de Estatística com Python](https://www.alura.com.br/formacao-estatistica-python), na plataforma [Alura](https://www.alura.com.br/), ministrados pelos instrutores [Rodrigo Dias] (https://www.linkedin.com/in/rodrigo-fernando-dias-118181120/). Durante este estudo, analisamos os microdados da Pesquisa Nacional por Amostra de Domicílios (PNAD) de 2015.
+Este repositório contém projetos desenvolvidos ao longo de quatro cursos da [Formação de Estatística com Python](https://www.alura.com.br/formacao-estatistica-python), na plataforma [Alura](https://www.alura.com.br/), ministrados pelos instrutores [Rodrigo Dias](https://www.linkedin.com/in/rodrigo-fernando-dias-118181120/). Durante este estudo, analisamos os microdados da Pesquisa Nacional por Amostra de Domicílios (PNAD) de 2015.
 
 ## Tecnologias utilizadas
 - [Google Colaboratory](https://colab.research.google.com/): Ambiente de notebook interativo baseado na nuvem;
